@@ -9,6 +9,8 @@ Full credit goes to
 * "Kjell Bublitz":http://github.com/m3nt0r/php-sprockets
 * "wiese":https://github.com/wiese
 
+who created and improved php-sprockets in the first place.
+
 Thanks to "Sam Stephenson":http://github.com/sstephenson/sprockets for the initial concept of JavaScript dependency management,
 
 h2. Differences
